@@ -1,1 +1,0 @@
-# vichar-extension
