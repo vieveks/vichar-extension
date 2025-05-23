@@ -48,7 +48,7 @@ We use the collected information to:
 
 ### 4. Data Storage & Security
 
-* User data is securely stored using \[Firebase/Supabase/etc.], and only essential data is retained.
+* User data is securely stored using \[MongoDB/Supabase/etc.], and only essential data is retained.
 * Authentication tokens are encrypted.
 * Payment data is processed by PCI-compliant providers (e.g., Razorpay/Stripe).
 * We follow industry best practices to prevent unauthorized access.
@@ -60,7 +60,7 @@ We use the collected information to:
 We do **not sell**, rent, or share your data with any third-party services except:
 
 * Payment processors (Razorpay, Stripe) to complete transactions
-* Authentication providers (Google, etc.) if you log in via OAuth
+* Authentication providers (Google, JWT etc.) if you log in via OAuth
 
 ---
 
@@ -82,13 +82,29 @@ Vichar does **not use cookies** or third-party tracking tools. All interactions 
 
 ---
 
-### 8. Changes to This Policy
+### 8. Refund & Cancellation Policy
+
+We offer a no-questions-asked refund policy within 7 days of purchase. Refund requests can be initiated by contacting our support team at **\[pravinatech@gmail.com]**.
+
+Refunds will be processed if applicable to the original payment method and typically reflect within 5-7 business days.
+
+---
+
+### 9. Shipping & Delivery Policy
+
+Vichar is a digital software product and does not require physical shipping.
+
+Delivery is instant — users gain access immediately upon successful payment confirmation which is present in the exension in the form of credit topup (eg. 199 INR 100 credits) or premium plan upgrade. In rare cases of delay, delivery will be completed within a maximum of 1 day.
+
+---
+
+### 10. Changes to This Policy
 
 We may update this Privacy Policy from time to time. We will notify users of any significant changes via email or within the extension.
 
 ---
 
-### 9. Contact Us
+### 11. Contact Us
 
 If you have any questions about this policy or your data, please contact us at:
 
