@@ -72,7 +72,7 @@ You have the right to:
 * Delete your account and associated data
 * Request clarification on how your data is used
 
-To exercise these rights, please contact us at **\[your email]**.
+To exercise these rights, please contact us at **\[pravinatech@gmail.com]**.
 
 ---
 
@@ -92,5 +92,5 @@ We may update this Privacy Policy from time to time. We will notify users of any
 
 If you have any questions about this policy or your data, please contact us at:
 
-📧 **\[your email address]**
+📧 **\[vivekp.padman@gmail.com]**
 🌐 **\[link to this policy if hosted on GitHub Pages or similar]**
