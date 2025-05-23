@@ -84,7 +84,7 @@ Vichar does **not use cookies** or third-party tracking tools. All interactions 
 
 ### 8. Refund & Cancellation Policy
 
-We offer a no-questions-asked refund policy within 7 days of purchase. Refund requests can be initiated by contacting our support team at **\[pravinatech@gmail.com]**.
+We offer free credits at the start for each user, so once purchased we have no refund policy for vichar credits. Refund requests for some technical bug can be initiated by contacting our support team at **\[pravinatech@gmail.com]**.
 
 Refunds will be processed if applicable to the original payment method and typically reflect within 5-7 business days.
 
